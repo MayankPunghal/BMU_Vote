@@ -65,5 +65,6 @@ Run the server
 npm start
 ```
 ## Authors
-- **Mayank, Shikhar and Harshil**
+- **Mayank Punghal, Shikhar Sharma and Harshil Rastogi**
+
 
